@@ -1,2 +1,3 @@
-# ciao-mondo-
-Dica &lt;ciao mondo!>
+# ciao-mondo
+# Dica "ciao mondo!"
+print("Ciao Mondo!!")
